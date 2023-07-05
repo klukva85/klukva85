@@ -13,3 +13,5 @@
 [![Header](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=whatsApp&logoColor=f0000)](https://wa.me/+79138157722)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=339a3)](https://www.instagram.com/pronina_elena85/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Elena_Pronina85)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klukva85&show_icons=true&theme=radical)
