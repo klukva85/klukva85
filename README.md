@@ -2,6 +2,13 @@
 
 ## I'm a Junior QA Engineer
 
+## Testing Documentation
+- [Checklist](https://github.com/klukva85/Checklist.git)
+- [bug-report](https://github.com/klukva85/bug-report.git)
+- [SQL](https://github.com/klukva85/SQL.git)
+- [API-Postman](https://github.com/klukva85/API-Postman.git)
+- [test-design-techniques](https://github.com/klukva85/test-design-techniques.git)
+
 ## Language and Tools
 ![Header](https://img.shields.io/badge/VisualStudio-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
